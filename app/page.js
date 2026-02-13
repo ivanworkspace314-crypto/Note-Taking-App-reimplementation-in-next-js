@@ -1,6 +1,6 @@
 import NavBar from "../components/NavBar";
 import NoteBoard from "../components/NoteBoard";
-import { getNotes } from "../lib/api";
+import { getNotes } from "../lib/api-server";
 
 export const dynamic = "force-dynamic";
 

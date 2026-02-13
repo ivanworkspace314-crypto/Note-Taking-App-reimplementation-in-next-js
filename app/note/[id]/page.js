@@ -1,5 +1,5 @@
 import NoteEditor from "../../../components/NoteEditor";
-import { getNoteById } from "../../../lib/api";
+import { getNoteById } from "../../../lib/api-server";
 
 export const dynamic = "force-dynamic";
 
